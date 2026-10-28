@@ -2,14 +2,14 @@
 
 I'm the **sole developer** at a construction-materials wholesaler in Brazil. Not "part of the team" — the only name in the git log.
 
-In 14 months I built and still run the platform the whole operation depends on: supplier scheduling, freight audit, yard management, tax integration and the BI panels the directors open every morning.
+In 16 months I built and still run the platform the whole operation depends on: supplier scheduling, freight audit, yard management, tax integration and the BI panels the directors open every morning.
 
 |  |  |
 |---|---|
 | Modules in production | **13** |
-| Internal users · supplier companies | **107 · 292** |
-| Freight under automated audit | **R$ 8.9M** (~USD 1.6M) |
-| Commits · authors | **442 · 1** |
+| Internal users · supplier companies | **112 · 347** |
+| Freight under automated audit | **R$ 11.5M** (~USD 2.1M) |
+| Commits · authors | **539 · 1** |
 
 📄 **[Read the case study →](https://github.com/Novaiis/plataforma-logistica-case)**
 Architecture, the decisions behind it, and the ones I got wrong.
